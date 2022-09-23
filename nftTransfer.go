@@ -9,7 +9,7 @@ import (
 	
 	// We need contract api to make new chaincodes
 	"github.com/hyperledger/fabric-contract-api-go/contractapi"
-	"github.com/nathanmlh/nftTransfer"
+	"github.com/nathanmlh/nftTransfer/chaincode"
 
 )
 
